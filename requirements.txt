@@ -1,11 +1,8 @@
-
-streamlit
+streamlit>=1.44.1
+pandas
+numpy<=1.26.4
 matplotlib
 plotly
-pandas
-numpy
 seaborn
-io
 openpyxl
-scikit-learn
-xlsxwriter
+
